@@ -8,11 +8,11 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Coimbatore, India"
+address = "Ambur,tiruppathur, India"
 favicon = "/favicon.ico"
 firstName = "Pradeen"
 lastName = "Krishnamoorthy"
-phone = "1-555-555-1234"
+phone = "0987654321"
 showSocializations = true
 showContact = false
 sections = ["skills","publications","creations","contributions","experience","education","blog"]
@@ -24,7 +24,7 @@ sections = ["skills","publications","creations","contributions","experience","ed
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/sathishkumarthiyagarajan/"
+link = "https://www.linkedin.com/in/kp-editz-544641321/"
 name = "LinkedIn"
 
 [[params.handles]]
